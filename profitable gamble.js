@@ -1,0 +1,2 @@
+//Create a function that takes in three arguments (prob, prize, pay) and returns true if prob * prize > pay; otherwise return false.
+const profitableGamble = (prob, prize, pay)=> prob * prize > pay ? true : false

@@ -1,0 +1,1 @@
+const isEvenOdd = num => num % 2 ? 'even' : 'odd' ;

@@ -1,0 +1,1 @@
+const concatName = (firstName, lastName) => lastName.concat( ', ', firstName);
