@@ -1,0 +1,1 @@
+const equalSlices= (total, people, each) => (total/people)>=each ? true: false;

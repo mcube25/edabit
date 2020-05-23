@@ -1,0 +1,1 @@
+const longBurp = num=> "Bu" + "r".repeat(num) + "p";

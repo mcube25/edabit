@@ -1,0 +1,1 @@
+const isLastCharacterN = word => word.endsWith("n");
