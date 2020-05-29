@@ -1,0 +1,1 @@
+const seperStr= arr => arr.split('').join(' ');
