@@ -1,0 +1,1 @@
+const stackBoxes = n=> n **2;

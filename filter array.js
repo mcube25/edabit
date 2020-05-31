@@ -1,0 +1,1 @@
+const filterArray = arr=> arr.filter(b=> Number.isInteger(b));

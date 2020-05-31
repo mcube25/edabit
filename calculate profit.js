@@ -1,0 +1,1 @@
+const profit = info=> Math.round((info.sellPrice-info. costPrice)*info.inventory);

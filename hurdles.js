@@ -1,0 +1,1 @@
+const hurdleJump = (hurdles, jumpHeight)=> Math.max(...hurdles)<= jumpHeight? true:false;
