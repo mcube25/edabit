@@ -1,0 +1,1 @@
+const hasKey = (obj, key)=> obj.hasOwnProperty(key);

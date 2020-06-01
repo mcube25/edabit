@@ -1,0 +1,1 @@
+const sameCase = str=> str.toUpperCase() ==str ||str.toLowerCase() ==str;

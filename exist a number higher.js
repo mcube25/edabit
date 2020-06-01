@@ -1,0 +1,1 @@
+const  existsHigher = (arr, n)=> arr.some(x=>x >=n);
