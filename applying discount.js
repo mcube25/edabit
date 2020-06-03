@@ -1,0 +1,1 @@
+const getDiscounts = (nums, d)=> nums.map(x=>x*(parseInt(d)/100));

@@ -1,0 +1,1 @@
+const capitalLetters = txt => txt.split(/[A-Z]/).length - 1;

@@ -1,0 +1,1 @@
+const subReddit = link=> link.split('/').splice(-2).join("").toString();

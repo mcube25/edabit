@@ -1,0 +1,1 @@
+const deNest = arr=> arr.flat(Infinity)[0];
